@@ -5,4 +5,5 @@ When connected with Wi-Fi network and all the required modules, this code will s
 
 Then it will report the readings on an LCD Screen and also upload them to Google Firebase used to manage the App and Real time tracking feature. 
 
-*RUN MAIN.PY
+##RUN MAIN.PY
+
